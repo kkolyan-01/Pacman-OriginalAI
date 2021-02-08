@@ -60,6 +60,7 @@
      <Compile Include="Assets\_Scripts\Tools\TileMapTools.cs" />
      <Compile Include="Assets\_Scripts\Stats.cs" />
      <Compile Include="Assets\_Scripts\Enemies\MoveBehaviors\Pokey.cs" />
+     <Compile Include="Assets\_Scripts\GameManager\FrightenedMode.cs" />
      <Compile Include="Assets\_Scripts\Enemies\GhostLeaveHomeController.cs" />
      <Compile Include="Assets\_Scripts\Enemies\MoveBehaviors\Speedy.cs" />
      <Compile Include="Assets\_Scripts\Energizer.cs" />
@@ -72,7 +73,6 @@
      <Compile Include="Assets\_Scripts\GameManager\GameTimer.cs" />
      <Compile Include="Assets\_Scripts\InputManager.cs" />
      <Compile Include="Assets\_Scripts\Enemies\MoveBehaviors\GhostBehaviorFactory.cs" />
-     <Compile Include="Assets\_Scripts\GameManager\FrightenedMode.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/_Unity Projects/Pacman Retro/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
