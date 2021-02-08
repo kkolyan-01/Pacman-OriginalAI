@@ -58,7 +58,6 @@
      <Compile Include="Assets\_Scripts\Enemies\GhostMoveAnimator.cs" />
      <Compile Include="Assets\_Scripts\Pacman.cs" />
      <Compile Include="Assets\_Scripts\Tools\TileMapTools.cs" />
-     <Compile Include="Assets\_Scripts\Stats.cs" />
      <Compile Include="Assets\_Scripts\Enemies\MoveBehaviors\Pokey.cs" />
      <Compile Include="Assets\_Scripts\GameManager\FrightenedMode.cs" />
      <Compile Include="Assets\_Scripts\Enemies\GhostLeaveHomeController.cs" />
