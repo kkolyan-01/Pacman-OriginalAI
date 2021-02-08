@@ -61,7 +61,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        //InitializeComponents();
+        InitializeComponents();
         _timer.Run();
         _lives = _startLives;
         UI.UpdateStats();
