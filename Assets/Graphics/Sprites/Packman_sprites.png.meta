@@ -1,0 +1,6016 @@
+fileFormatVersion: 2
+guid: 6d242c88f649dc1418cb248be3bc8428
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -418698823991790488
+    second: Shadow_right_0
+  - first:
+      213: -2269924120346324876
+    second: Speedy_right_0
+  - first:
+      213: 3290128136461806383
+    second: Bashful_right_0
+  - first:
+      213: -6090778458726964062
+    second: Pokey_right_0
+  - first:
+      213: -7470873288151874879
+    second: Packman_sprites_4
+  - first:
+      213: 3986202750681054534
+    second: Packman_sprites_5
+  - first:
+      213: 739955485206496500
+    second: Packman_dead_0
+  - first:
+      213: -5919411843451674877
+    second: Packman_sprites_7
+  - first:
+      213: 4153145925567504978
+    second: Packman_sprites_8
+  - first:
+      213: -3214328668859914681
+    second: Packman_sprites_9
+  - first:
+      213: 511011143468601868
+    second: Packman_sprites_10
+  - first:
+      213: 8658573006891509602
+    second: Packman_sprites_11
+  - first:
+      213: -7175336298131995594
+    second: Packman_sprites_12
+  - first:
+      213: 1303758998953389915
+    second: Packman_sprites_13
+  - first:
+      213: -5177666283494470130
+    second: Packman__Move_0
+  - first:
+      213: 1774157359788034409
+    second: Packman_sprites_15
+  - first:
+      213: 4029401980641202435
+    second: Shadow_right_1
+  - first:
+      213: 2602101739228554202
+    second: Speedy_right_1
+  - first:
+      213: 5372624869415131096
+    second: Bashful_right_1
+  - first:
+      213: -2000995401141760546
+    second: Pokey_right_1
+  - first:
+      213: 1661266080680475503
+    second: Packman_sprites_20
+  - first:
+      213: -1166561188846745102
+    second: Packman_sprites_21
+  - first:
+      213: -2161298089693106841
+    second: Packman_dead_1
+  - first:
+      213: 3055111506049650241
+    second: Packman_sprites_23
+  - first:
+      213: -9189099446072922079
+    second: Packman_sprites_24
+  - first:
+      213: 8576806111135733918
+    second: Packman_sprites_25
+  - first:
+      213: 2500133238429921433
+    second: Packman_sprites_26
+  - first:
+      213: -2519896300450015520
+    second: Packman_sprites_27
+  - first:
+      213: 6796612496662765378
+    second: Packman_sprites_28
+  - first:
+      213: 379706177065133969
+    second: Packman_sprites_29
+  - first:
+      213: -1559991971590762988
+    second: Packman__Move_1
+  - first:
+      213: -6938547220332675857
+    second: Packman_sprites_31
+  - first:
+      213: -1906125959655039730
+    second: Shadow_down_0
+  - first:
+      213: 5630069176172058726
+    second: Speedy_down_0
+  - first:
+      213: -7871265095967984539
+    second: Bashful_down_0
+  - first:
+      213: -2179949380343645512
+    second: Pokey_down_0
+  - first:
+      213: 3925138881811737450
+    second: Packman_sprites_36
+  - first:
+      213: -1559935791185622229
+    second: Packman_sprites_37
+  - first:
+      213: -6945960383591208308
+    second: Packman_dead_2
+  - first:
+      213: -4186945908433942408
+    second: Packman_sprites_39
+  - first:
+      213: -3385360021295312550
+    second: Packman_sprites_40
+  - first:
+      213: 1029027593996395734
+    second: Packman_sprites_41
+  - first:
+      213: 4130764573022702521
+    second: Packman_sprites_42
+  - first:
+      213: 2999342542433274299
+    second: Packman_sprites_43
+  - first:
+      213: -1663658950055560993
+    second: Packman_sprites_44
+  - first:
+      213: 6516944815973009420
+    second: Packman__Move_2
+  - first:
+      213: 7736746021546945077
+    second: Packman_sprites_46
+  - first:
+      213: 2189369013907593429
+    second: Shadow_down_1
+  - first:
+      213: 1061038941455660698
+    second: Speedy_down_1
+  - first:
+      213: -6186701974557313935
+    second: Bashful_down_1
+  - first:
+      213: 2655141419419304401
+    second: Pokey_down_1
+  - first:
+      213: 5405387438831391179
+    second: Packman_sprites_51
+  - first:
+      213: -4575083502716380362
+    second: Packman_sprites_52
+  - first:
+      213: 8983821353912907411
+    second: Packman_dead_3
+  - first:
+      213: 1412441852841583809
+    second: Packman_sprites_54
+  - first:
+      213: -2466515495080191746
+    second: Packman_sprites_55
+  - first:
+      213: 6526034723473954135
+    second: Packman_sprites_56
+  - first:
+      213: -4524106522016102422
+    second: Packman_sprites_57
+  - first:
+      213: 8874280011388439107
+    second: Packman_sprites_58
+  - first:
+      213: 1605678889425818944
+    second: Packman_sprites_59
+  - first:
+      213: 7226782073628509613
+    second: Packman_sprites_60
+  - first:
+      213: -8228182502526658459
+    second: Packman_sprites_61
+  - first:
+      213: 4611817635084096778
+    second: Packman_sprites_62
+  - first:
+      213: 9089299982287148070
+    second: Shadow_left_0
+  - first:
+      213: 4048838209237973671
+    second: Speedy_left_0
+  - first:
+      213: -864477008547003784
+    second: Bashful_left_0
+  - first:
+      213: 7851356833801538243
+    second: Pokey_left_0
+  - first:
+      213: -3541736108875978316
+    second: Packman_sprites_67
+  - first:
+      213: -7430838365447284680
+    second: Packman_sprites_68
+  - first:
+      213: 7547949909720768709
+    second: Packman_sprites_69
+  - first:
+      213: 8936244685033219707
+    second: Packman_sprites_70
+  - first:
+      213: -7896631381247215267
+    second: Packman_sprites_71
+  - first:
+      213: 3700599285831313190
+    second: Packman_sprites_72
+  - first:
+      213: -5949413489259701976
+    second: Packman_sprites_73
+  - first:
+      213: 4152147158869357212
+    second: Packman_sprites_74
+  - first:
+      213: -484253376815793504
+    second: Packman_sprites_75
+  - first:
+      213: 8069621269279306613
+    second: Packman_sprites_76
+  - first:
+      213: -84260341907051681
+    second: Packman_sprites_77
+  - first:
+      213: 3764406257795356855
+    second: Packman_sprites_78
+  - first:
+      213: 657116009560817831
+    second: Packman_dead_4
+  - first:
+      213: -6904835314988872986
+    second: Packman_sprites_80
+  - first:
+      213: -8072626403307511950
+    second: Shadow_left_1
+  - first:
+      213: 6854806911689982400
+    second: Speedy_left_1
+  - first:
+      213: -8122075441012798180
+    second: Bashful_left_1
+  - first:
+      213: -2834088211769287774
+    second: Pokey_left_1
+  - first:
+      213: -2038747022781621624
+    second: Packman_sprites_85
+  - first:
+      213: 2265508038178700730
+    second: Packman_sprites_86
+  - first:
+      213: -3688358941366429999
+    second: Packman_sprites_87
+  - first:
+      213: -243806168425439939
+    second: Packman_sprites_88
+  - first:
+      213: 8574962376435225853
+    second: Packman_dead_5
+  - first:
+      213: -2021693040830934189
+    second: Packman_sprites_90
+  - first:
+      213: 3239638378056014857
+    second: Packman_sprites_91
+  - first:
+      213: -8463091542292682973
+    second: Packman_sprites_92
+  - first:
+      213: 4797139255537315807
+    second: Packman_sprites_93
+  - first:
+      213: -915476448617765681
+    second: Packman_sprites_94
+  - first:
+      213: 6243196846924075438
+    second: Packman_sprites_95
+  - first:
+      213: 8076042498308612748
+    second: Packman_sprites_96
+  - first:
+      213: 652856536241987000
+    second: Packman_sprites_97
+  - first:
+      213: 3851357071670063633
+    second: Packman_sprites_98
+  - first:
+      213: 6395320412532171365
+    second: Packman_sprites_99
+  - first:
+      213: 8343742134220228903
+    second: Packman_sprites_100
+  - first:
+      213: -654490118633734893
+    second: Shadow_up_0
+  - first:
+      213: -3379369085382376547
+    second: Speedy_up_0
+  - first:
+      213: 7334164672583501152
+    second: Bashful_up_0
+  - first:
+      213: -810064176566755711
+    second: Pokey_up_0
+  - first:
+      213: 6081344870813129476
+    second: Packman_sprites_105
+  - first:
+      213: -726874280251581759
+    second: Packman_sprites_106
+  - first:
+      213: 5898785558380352161
+    second: Packman_sprites_107
+  - first:
+      213: 5147547269717510828
+    second: Packman_sprites_108
+  - first:
+      213: 2064438689106894997
+    second: Packman_dead_6
+  - first:
+      213: -3653435488832730346
+    second: Packman_sprites_110
+  - first:
+      213: -2572997409286056191
+    second: Packman_sprites_111
+  - first:
+      213: -2152642643053235376
+    second: Packman_sprites_112
+  - first:
+      213: -7357697261449903544
+    second: Packman_sprites_113
+  - first:
+      213: -4049038976735371117
+    second: Packman_sprites_114
+  - first:
+      213: -5310061634124437414
+    second: Packman_sprites_115
+  - first:
+      213: -2350284255449722939
+    second: Packman_sprites_116
+  - first:
+      213: 5769781342708745700
+    second: Packman_sprites_117
+  - first:
+      213: -7940832997248852729
+    second: Packman_sprites_118
+  - first:
+      213: -4492119823811213851
+    second: Shadow_up_1
+  - first:
+      213: -498340091590985864
+    second: Speedy_up_1
+  - first:
+      213: 4075115157923541071
+    second: Bashful_up_1
+  - first:
+      213: -5144591507203293103
+    second: Pokey_up_1
+  - first:
+      213: 8485482221256139974
+    second: Packman_sprites_123
+  - first:
+      213: -4249340524756674026
+    second: Packman_sprites_124
+  - first:
+      213: -6128188645072167657
+    second: Packman_sprites_125
+  - first:
+      213: -6525938055539947085
+    second: Packman_sprites_126
+  - first:
+      213: -1528289967352066087
+    second: Packman_dead_7
+  - first:
+      213: -4457196857993701924
+    second: Packman_sprites_128
+  - first:
+      213: 5358528735036426056
+    second: Packman_sprites_129
+  - first:
+      213: 1107432280613541892
+    second: Packman_sprites_130
+  - first:
+      213: -1171189500184081811
+    second: Packman_sprites_131
+  - first:
+      213: -2150876452372672742
+    second: Packman_sprites_132
+  - first:
+      213: -2758706213164091285
+    second: Packman_sprites_133
+  - first:
+      213: 5901186567043487509
+    second: Packman_sprites_134
+  - first:
+      213: 797617623597370507
+    second: Packman_sprites_135
+  - first:
+      213: -5436866880750421569
+    second: Packman_sprites_136
+  - first:
+      213: 3550093089212222542
+    second: Packman_sprites_137
+  - first:
+      213: -7342944320543686666
+    second: Packman_sprites_138
+  - first:
+      213: 3714637790972545013
+    second: Packman_sprites_139
+  - first:
+      213: -6481569006194069129
+    second: Packman_dead_8
+  - first:
+      213: 9129540094122847679
+    second: Packman_sprites_141
+  - first:
+      213: 4939066024002577984
+    second: Packman_sprites_142
+  - first:
+      213: 4333070677346685457
+    second: Packman_sprites_143
+  - first:
+      213: 2142048467014958759
+    second: Packman_sprites_144
+  - first:
+      213: 8670158858617582454
+    second: Packman_sprites_145
+  - first:
+      213: -6970898709743522778
+    second: Packman_sprites_146
+  - first:
+      213: -1213240594548526299
+    second: Packman_dead_9
+  - first:
+      213: 5286242429076924185
+    second: Packman_sprites_148
+  - first:
+      213: -1206839576126157072
+    second: Packman_sprites_149
+  - first:
+      213: 2492825078985666123
+    second: Packman_sprites_150
+  - first:
+      213: 2095196699671905452
+    second: Packman_sprites_151
+  - first:
+      213: -2488286284390450238
+    second: Packman_sprites_152
+  - first:
+      213: -8673546149540443932
+    second: Packman_sprites_153
+  - first:
+      213: 6519474925535740801
+    second: Packman_sprites_154
+  - first:
+      213: 3170597084950526405
+    second: Packman_dead_10
+  - first:
+      213: 4835766361446394616
+    second: Packman_sprites_156
+  - first:
+      213: -1996689760766887057
+    second: Packman_sprites_157
+  - first:
+      213: -6667296171809420217
+    second: Packman_sprites_158
+  - first:
+      213: 2002453339872439248
+    second: Packman_sprites_159
+  - first:
+      213: 4486111706707339731
+    second: Frightened_0
+  - first:
+      213: 3003097042333919219
+    second: Packman_sprites_161
+  - first:
+      213: -4124698019617480269
+    second: Packman_sprites_162
+  - first:
+      213: 2438507645666621489
+    second: Packman_sprites_163
+  - first:
+      213: 6526469903074571880
+    second: Packman_sprites_164
+  - first:
+      213: -2182621507657329425
+    second: Packman_sprites_165
+  - first:
+      213: -7722801379722158896
+    second: Packman_sprites_166
+  - first:
+      213: 5087272617864635039
+    second: Frightened_1
+  - first:
+      213: -718895754964381698
+    second: Packman_sprites_168
+  - first:
+      213: -9135801282245873348
+    second: Packman_sprites_169
+  - first:
+      213: -7006090955814319468
+    second: Packman_sprites_170
+  - first:
+      213: 2438035946225220937
+    second: Packman_sprites_171
+  - first:
+      213: -3445994208132151287
+    second: Packman_sprites_172
+  - first:
+      213: 8330942964956968095
+    second: Packman_sprites_173
+  - first:
+      213: -6402638608395031892
+    second: Packman_sprites_174
+  - first:
+      213: 4010220615038568428
+    second: Packman_sprites_175
+  - first:
+      213: 262228732595301078
+    second: Packman_sprites_176
+  - first:
+      213: -7244952555810625617
+    second: Packman_sprites_177
+  - first:
+      213: 3158051156706659062
+    second: Packman_sprites_178
+  - first:
+      213: -5892755593128693293
+    second: Packman_sprites_179
+  - first:
+      213: 3473585023500104402
+    second: Packman_sprites_180
+  - first:
+      213: 483224764658277243
+    second: Packman_sprites_181
+  - first:
+      213: -6233439309632572395
+    second: Packman_sprites_182
+  - first:
+      213: 3228516311838433853
+    second: Packman_sprites_183
+  - first:
+      213: 8166767050910348907
+    second: Packman_sprites_184
+  - first:
+      213: 2305901956003725249
+    second: Packman_sprites_185
+  - first:
+      213: -7339216398118347727
+    second: Packman_sprites_186
+  - first:
+      213: 7384347963783043206
+    second: Packman_sprites_187
+  - first:
+      213: 5500515523589410122
+    second: Packman_sprites_188
+  - first:
+      213: -5583674417620063473
+    second: Packman_sprites_189
+  - first:
+      213: 5624763847948638409
+    second: Packman_sprites_190
+  - first:
+      213: 636795174551717159
+    second: Packman_sprites_191
+  - first:
+      213: 4096980106693116976
+    second: Packman_sprites_192
+  - first:
+      213: 13966132883570376
+    second: Packman_sprites_193
+  - first:
+      213: -1222350593378659343
+    second: Packman_sprites_194
+  - first:
+      213: -3957486065801076755
+    second: Packman_sprites_195
+  - first:
+      213: 3300489783863253208
+    second: Packman_sprites_196
+  - first:
+      213: 3384940526230284929
+    second: Packman_sprites_197
+  - first:
+      213: -3511206814738509100
+    second: Packman_sprites_198
+  - first:
+      213: 4610768020230982719
+    second: Packman_sprites_199
+  - first:
+      213: 5989588306321649629
+    second: Packman_sprites_200
+  - first:
+      213: 5982373197118927213
+    second: Packman_sprites_201
+  - first:
+      213: 8045676663823587218
+    second: Packman_sprites_202
+  - first:
+      213: -8588038905260408444
+    second: Packman_sprites_203
+  - first:
+      213: -4328416555130450991
+    second: Packman_sprites_204
+  - first:
+      213: -4062116177569380226
+    second: Packman_sprites_205
+  - first:
+      213: 1745189635130058084
+    second: Packman_sprites_206
+  - first:
+      213: -5937329907616840464
+    second: Packman_sprites_207
+  - first:
+      213: -4143735488532983454
+    second: Packman_sprites_208
+  - first:
+      213: 3564228867349543425
+    second: Packman_sprites_209
+  - first:
+      213: 2614641718512359437
+    second: Packman_sprites_210
+  - first:
+      213: 3577701989703586977
+    second: Packman_sprites_211
+  - first:
+      213: 8861337627374884393
+    second: Packman_sprites_212
+  - first:
+      213: 318519181879968765
+    second: Packman_sprites_213
+  - first:
+      213: 4844181643406291835
+    second: Packman_sprites_214
+  - first:
+      213: 2766671945401771365
+    second: Packman_sprites_215
+  - first:
+      213: -1568597383847950392
+    second: Packman_sprites_216
+  - first:
+      213: -3468550583959046029
+    second: Packman_sprites_217
+  - first:
+      213: -7098136512595963020
+    second: Packman_sprites_218
+  - first:
+      213: -8034220608580079475
+    second: Packman_sprites_219
+  - first:
+      213: -6976484675342672521
+    second: Packman_sprites_220
+  - first:
+      213: 8085883149384170280
+    second: Packman_sprites_221
+  - first:
+      213: 3889340346142910994
+    second: Packman_sprites_222
+  - first:
+      213: 4588349511137434776
+    second: Packman_sprites_223
+  - first:
+      213: 7600637879567439870
+    second: Packman_sprites_224
+  - first:
+      213: 1597789587181563132
+    second: Packman_sprites_225
+  - first:
+      213: -4361607531543291552
+    second: Packman_sprites_226
+  - first:
+      213: -7496706007086870877
+    second: Packman_sprites_227
+  - first:
+      213: -605024032742130145
+    second: Packman_sprites_228
+  - first:
+      213: -2099918151431326133
+    second: Packman_sprites_229
+  - first:
+      213: -3559474853417155068
+    second: Packman_sprites_230
+  - first:
+      213: -312832966048222209
+    second: Packman_sprites_231
+  - first:
+      213: -8533463103761903246
+    second: Packman_sprites_232
+  - first:
+      213: 3060403227464176013
+    second: Packman_sprites_233
+  - first:
+      213: 6929911627165240782
+    second: Packman_sprites_234
+  - first:
+      213: -1093769240744753161
+    second: Packman_sprites_235
+  - first:
+      213: -2188990369375691929
+    second: Packman_sprites_236
+  - first:
+      213: 8472359815484098687
+    second: Packman_sprites_237
+  - first:
+      213: -8398029220858957908
+    second: Packman_sprites_238
+  - first:
+      213: -8389613448858882971
+    second: Packman_sprites_239
+  - first:
+      213: 8169840132847640538
+    second: Packman_sprites_240
+  - first:
+      213: -249883434748369264
+    second: Packman_sprites_241
+  - first:
+      213: 636314702776979169
+    second: Packman_sprites_242
+  - first:
+      213: -8848165445063344896
+    second: Packman_sprites_243
+  - first:
+      213: -3655240721361480761
+    second: Packman_sprites_244
+  - first:
+      213: 1925758446047296406
+    second: Packman_sprites_245
+  - first:
+      213: -1029549509643812231
+    second: Packman_sprites_246
+  - first:
+      213: -6648884137077718099
+    second: Packman_sprites_247
+  - first:
+      213: -4525814921214108115
+    second: Packman_sprites_248
+  - first:
+      213: 884303678932330079
+    second: Packman_sprites_249
+  - first:
+      213: -8072503733743026558
+    second: Packman_sprites_250
+  - first:
+      213: -4519618405622429029
+    second: Packman_sprites_251
+  - first:
+      213: 6594459286238854523
+    second: Packman_sprites_252
+  - first:
+      213: 1974320271686485951
+    second: Packman_sprites_253
+  - first:
+      213: 5225214002663077351
+    second: Packman_sprites_254
+  - first:
+      213: -8111639219706667666
+    second: Packman_sprites_255
+  - first:
+      213: 6966837757367964236
+    second: Packman_sprites_256
+  - first:
+      213: -7754163802965096607
+    second: Packman_sprites_257
+  - first:
+      213: 3712640391608361202
+    second: Packman_sprites_258
+  - first:
+      213: 7407963584712825882
+    second: Packman_sprites_259
+  - first:
+      213: -4301056333391428808
+    second: Packman_sprites_260
+  - first:
+      213: 5653295255242509002
+    second: Packman_sprites_261
+  - first:
+      213: -3939960597363460453
+    second: Packman_sprites_262
+  - first:
+      213: 4984542531919843994
+    second: Packman_sprites_263
+  - first:
+      213: -8866752502059269861
+    second: Packman_sprites_264
+  - first:
+      213: 709297624373526373
+    second: Packman_sprites_265
+  - first:
+      213: -8182487939713625940
+    second: Packman_sprites_266
+  - first:
+      213: -4486016147908755513
+    second: Packman_sprites_267
+  - first:
+      213: -5337487998233095358
+    second: Packman_sprites_268
+  - first:
+      213: -226225570014132900
+    second: Packman_sprites_269
+  - first:
+      213: 7396079319158776675
+    second: Packman_sprites_270
+  - first:
+      213: 3443779265855493534
+    second: Packman_sprites_271
+  - first:
+      213: 5662881969722558135
+    second: Packman_sprites_272
+  - first:
+      213: -3261781450053715478
+    second: Packman_sprites_273
+  - first:
+      213: -1554693990854528333
+    second: Packman_sprites_274
+  - first:
+      213: -301799827109707784
+    second: Packman_sprites_275
+  - first:
+      213: 2111352024664302205
+    second: Packman_sprites_276
+  - first:
+      213: 7226725980165711129
+    second: Packman_sprites_277
+  - first:
+      213: -7064366966498569305
+    second: Packman_sprites_278
+  - first:
+      213: -805405408444749151
+    second: Packman_sprites_279
+  - first:
+      213: -1714230314356020721
+    second: Packman_sprites_280
+  - first:
+      213: 6690985879545654624
+    second: Packman_sprites_281
+  - first:
+      213: -680633368058378717
+    second: Packman_sprites_282
+  - first:
+      213: 7327459677723929855
+    second: Packman_sprites_283
+  - first:
+      213: -6314258952131342134
+    second: Packman_sprites_284
+  - first:
+      213: 2954816801858753907
+    second: Packman_sprites_285
+  - first:
+      213: 8186820214249060929
+    second: Packman_sprites_286
+  - first:
+      213: 8003491757329292503
+    second: Packman_sprites_287
+  - first:
+      213: -6090401868023361334
+    second: Packman_sprites_288
+  - first:
+      213: 7617721397727851636
+    second: Packman_sprites_289
+  - first:
+      213: 1890288097481908661
+    second: Packman_sprites_290
+  - first:
+      213: 3245464821380667236
+    second: Packman_sprites_291
+  - first:
+      213: -5421321731019206514
+    second: Packman_sprites_292
+  - first:
+      213: -8279206352484505912
+    second: Packman_sprites_293
+  - first:
+      213: 2196945120556947001
+    second: Packman_sprites_294
+  - first:
+      213: -4803303566180349730
+    second: Packman_sprites_295
+  - first:
+      213: -6546218813214967496
+    second: Packman_sprites_296
+  - first:
+      213: -1497625324480975784
+    second: Packman_sprites_297
+  - first:
+      213: -8025681305390445979
+    second: Packman_sprites_298
+  - first:
+      213: -963968059224023037
+    second: Packman_sprites_299
+  - first:
+      213: -8026370954581728145
+    second: Packman_sprites_300
+  - first:
+      213: 8801946529197526306
+    second: Packman_sprites_301
+  - first:
+      213: -2862645846872111257
+    second: Packman_sprites_302
+  - first:
+      213: 6144751185422439890
+    second: Packman_sprites_303
+  - first:
+      213: -747305462773515750
+    second: Packman_sprites_304
+  - first:
+      213: 5131244105313540065
+    second: Packman_sprites_305
+  - first:
+      213: -145177797729397475
+    second: Packman_sprites_306
+  - first:
+      213: 1485297356373525940
+    second: Packman_sprites_307
+  - first:
+      213: -1561612438691487630
+    second: Packman_sprites_308
+  - first:
+      213: -714806730148924199
+    second: Packman_sprites_309
+  - first:
+      213: 5936215959774227766
+    second: Packman_sprites_310
+  - first:
+      213: -2876856891344148408
+    second: Packman_sprites_311
+  - first:
+      213: 6217913789250707680
+    second: Packman_sprites_312
+  - first:
+      213: -4426109298335717666
+    second: Packman_sprites_313
+  - first:
+      213: -706729204334647891
+    second: Packman_sprites_314
+  - first:
+      213: -2945864587891139029
+    second: Packman_sprites_315
+  - first:
+      213: -3395046510559108451
+    second: Packman_sprites_316
+  - first:
+      213: 6771225301680148465
+    second: Packman_sprites_317
+  - first:
+      213: -8860649927326975437
+    second: Packman_sprites_318
+  - first:
+      213: 2934962850035551266
+    second: Packman_sprites_319
+  - first:
+      213: -5488933053045153416
+    second: Packman_sprites_320
+  - first:
+      213: 5790219618709743761
+    second: Packman_sprites_321
+  - first:
+      213: 7626687671152620284
+    second: Packman_sprites_322
+  - first:
+      213: 8879512190701766128
+    second: Packman_sprites_323
+  - first:
+      213: 6456327203348525769
+    second: Packman_sprites_324
+  - first:
+      213: -6956495444454996613
+    second: Packman_sprites_325
+  - first:
+      213: 4232653859079983908
+    second: Packman_sprites_326
+  - first:
+      213: -1629562322516274890
+    second: Packman_sprites_327
+  - first:
+      213: -8010701953152930474
+    second: Packman_sprites_328
+  - first:
+      213: 6132489825276973477
+    second: Packman_sprites_329
+  - first:
+      213: 7173811991470761245
+    second: Packman_sprites_330
+  - first:
+      213: -1465561408830647158
+    second: Packman_sprites_331
+  - first:
+      213: -5214043484670330761
+    second: Packman_sprites_332
+  - first:
+      213: -6450764303564158358
+    second: Packman_sprites_333
+  - first:
+      213: -4607238638704163952
+    second: Packman_sprites_334
+  - first:
+      213: -4762045414367723302
+    second: Packman_sprites_335
+  - first:
+      213: -3547199668750336508
+    second: Packman_sprites_336
+  - first:
+      213: 7749892572181896177
+    second: Packman_sprites_337
+  - first:
+      213: 2938982521688598818
+    second: Packman_sprites_338
+  - first:
+      213: 493459129221614816
+    second: Packman_sprites_339
+  - first:
+      213: 6755606883934123691
+    second: Packman_sprites_340
+  - first:
+      213: 1850382024826917563
+    second: Packman_sprites_341
+  - first:
+      213: 7147229630552090950
+    second: Packman_sprites_342
+  - first:
+      213: -6088563032253711100
+    second: Packman_sprites_343
+  - first:
+      213: 3468629895777851687
+    second: Packman_sprites_344
+  - first:
+      213: -7569610288549183397
+    second: Packman_sprites_345
+  - first:
+      213: -5153829210685839900
+    second: Packman_sprites_346
+  - first:
+      213: 8122451892764465904
+    second: Packman_sprites_347
+  - first:
+      213: 3368040018346679534
+    second: Packman_sprites_348
+  - first:
+      213: 7774908074767881838
+    second: Packman_sprites_349
+  - first:
+      213: 1496763138840166997
+    second: Packman_sprites_350
+  - first:
+      213: -7379609158190647056
+    second: Packman_sprites_351
+  - first:
+      213: -1384281729240720670
+    second: Packman_sprites_352
+  - first:
+      213: 4374834618627460673
+    second: Packman_sprites_353
+  - first:
+      213: -1765849136555077312
+    second: Packman_sprites_354
+  - first:
+      213: -8446057524802199230
+    second: Packman_sprites_355
+  - first:
+      213: -8110626932631624884
+    second: Packman_sprites_356
+  - first:
+      213: 6118062899391907314
+    second: Packman_sprites_357
+  - first:
+      213: -7496227781528442368
+    second: Packman_sprites_358
+  - first:
+      213: -5811771494895332684
+    second: Packman_sprites_359
+  - first:
+      213: 388007346563095979
+    second: Packman_sprites_360
+  - first:
+      213: 4903205953510149238
+    second: Packman_sprites_361
+  - first:
+      213: -4734517624133487289
+    second: Packman_sprites_362
+  - first:
+      213: -1574447142243170582
+    second: Packman_sprites_363
+  - first:
+      213: -44933135465866804
+    second: Packman_sprites_364
+  - first:
+      213: 5037252309038920574
+    second: Packman_sprites_365
+  - first:
+      213: -6296325063439888138
+    second: Packman_sprites_366
+  - first:
+      213: -547953089760746180
+    second: Packman_sprites_367
+  - first:
+      213: 2689194093919111763
+    second: Packman_sprites_368
+  - first:
+      213: 6223829890752792813
+    second: Packman_sprites_369
+  - first:
+      213: -7497011507282883985
+    second: Packman_sprites_370
+  - first:
+      213: -8860283536134456173
+    second: Packman_sprites_371
+  - first:
+      213: 5091665359331168492
+    second: Packman_sprites_372
+  - first:
+      213: -8005578345917278171
+    second: Packman_sprites_373
+  - first:
+      213: 2361295823019404772
+    second: Packman_sprites_374
+  - first:
+      213: -1105988050218721313
+    second: Packman_sprites_375
+  - first:
+      213: -8583749828444809405
+    second: Packman_sprites_376
+  - first:
+      213: -7683823141556385845
+    second: Packman_sprites_377
+  - first:
+      213: 6400829380693063473
+    second: Packman_sprites_378
+  - first:
+      213: 2011012286030800646
+    second: Packman_sprites_379
+  - first:
+      213: 3892537854215292501
+    second: Packman_sprites_380
+  - first:
+      213: 6296443445271592854
+    second: Packman_sprites_381
+  - first:
+      213: -3522836474083003990
+    second: Packman_sprites_382
+  - first:
+      213: -2792455757414211341
+    second: Packman_sprites_383
+  - first:
+      213: 4347202297564177655
+    second: Packman_sprites_384
+  - first:
+      213: 648644895025983372
+    second: Packman_sprites_385
+  - first:
+      213: -4876898012888272517
+    second: Packman_sprites_386
+  - first:
+      213: 8878391174047608261
+    second: Packman_sprites_387
+  - first:
+      213: 4999390269427600534
+    second: Packman_sprites_388
+  - first:
+      213: -7118524668171076169
+    second: Packman_sprites_389
+  - first:
+      213: 2404654324499311689
+    second: Packman_sprites_390
+  - first:
+      213: -7257539279703794606
+    second: Packman_sprites_391
+  - first:
+      213: 4281238667773688864
+    second: Packman_sprites_392
+  - first:
+      213: -8180277282372920678
+    second: Packman_sprites_393
+  - first:
+      213: 7863431519923040729
+    second: Packman_sprites_394
+  - first:
+      213: 6664089970466779941
+    second: Packman_sprites_395
+  - first:
+      213: 6670411334156059821
+    second: Packman_sprites_396
+  - first:
+      213: 8165087515482836244
+    second: Packman_sprites_397
+  - first:
+      213: -394896875569043874
+    second: Packman_sprites_398
+  - first:
+      213: -1591489242118501105
+    second: Packman_sprites_399
+  - first:
+      213: -6768864291799883777
+    second: Packman_sprites_400
+  - first:
+      213: -8138934715384243731
+    second: Packman_sprites_401
+  - first:
+      213: 7804788510421015503
+    second: Packman_sprites_402
+  - first:
+      213: 583737833320910438
+    second: Packman_sprites_403
+  - first:
+      213: -3782506638943707944
+    second: Packman_sprites_404
+  - first:
+      213: -135704963360863191
+    second: Packman_sprites_405
+  - first:
+      213: -6069465947872128294
+    second: Packman_sprites_406
+  - first:
+      213: 8045721294190268517
+    second: Packman_sprites_407
+  - first:
+      213: 5948897657174139384
+    second: Packman_sprites_408
+  - first:
+      213: 1128413621689689062
+    second: Packman_sprites_409
+  - first:
+      213: -7231617959278563288
+    second: Packman_sprites_410
+  - first:
+      213: 5767943373509986195
+    second: Packman_sprites_411
+  - first:
+      213: 7297431667891774894
+    second: Packman_sprites_412
+  - first:
+      213: 8844148881937048954
+    second: Packman_sprites_413
+  - first:
+      213: 7343322820125356482
+    second: Packman_sprites_414
+  - first:
+      213: -957672635076915994
+    second: Packman_sprites_415
+  - first:
+      213: 5883007015427893352
+    second: Packman_sprites_416
+  - first:
+      213: -2739422782535148362
+    second: Packman_sprites_417
+  - first:
+      213: 5323817320431172601
+    second: Packman_sprites_418
+  - first:
+      213: 7457348727215356809
+    second: Packman_sprites_419
+  - first:
+      213: -6880065929886371750
+    second: Packman_sprites_420
+  - first:
+      213: 4895651185014449224
+    second: Packman_sprites_421
+  - first:
+      213: -4810046449453242161
+    second: Packman_sprites_422
+  - first:
+      213: -1296460363654647402
+    second: Packman_sprites_423
+  - first:
+      213: 8006696133235840110
+    second: Packman_sprites_424
+  - first:
+      213: -2155652027054187441
+    second: Packman_sprites_425
+  - first:
+      213: 7751674059906514149
+    second: Packman_sprites_426
+  - first:
+      213: 9129825234003571732
+    second: Packman_sprites_427
+  - first:
+      213: 1339182798018883260
+    second: Packman_sprites_428
+  - first:
+      213: 1929423871899036295
+    second: Packman_sprites_429
+  - first:
+      213: -8172922056583992356
+    second: Packman_sprites_430
+  - first:
+      213: -2571911827178654008
+    second: Packman_sprites_431
+  - first:
+      213: 5823264567898430744
+    second: Packman_sprites_432
+  - first:
+      213: 7604438846122707831
+    second: Packman_sprites_433
+  - first:
+      213: 2641415994282750287
+    second: Packman_sprites_434
+  - first:
+      213: 1102684458062707582
+    second: Packman_sprites_435
+  - first:
+      213: -3723097316028023963
+    second: Packman_sprites_436
+  - first:
+      213: 6607235610017715039
+    second: Packman_sprites_437
+  - first:
+      213: 1266908917760226485
+    second: Packman_sprites_438
+  - first:
+      213: 2930189244885506503
+    second: Packman_sprites_439
+  - first:
+      213: 4298991135525869689
+    second: Packman_sprites_440
+  - first:
+      213: -2358808299570911501
+    second: Packman_sprites_441
+  - first:
+      213: -1508087153411086750
+    second: Packman_sprites_442
+  - first:
+      213: 3128225445376536597
+    second: Packman_sprites_443
+  - first:
+      213: -4115284532242835838
+    second: Packman_sprites_444
+  - first:
+      213: -2688366948553341338
+    second: Packman_sprites_445
+  - first:
+      213: -3109922940296602287
+    second: Packman_sprites_446
+  - first:
+      213: 7413799902644581228
+    second: Packman_sprites_447
+  - first:
+      213: -326028528701969679
+    second: Packman_sprites_448
+  - first:
+      213: 3334085833966441623
+    second: Packman_sprites_449
+  - first:
+      213: 5500051266491520740
+    second: Packman_sprites_450
+  - first:
+      213: 6657564167088253209
+    second: Packman_sprites_451
+  - first:
+      213: -1893129110884778959
+    second: Packman_sprites_452
+  - first:
+      213: 4262542167290551880
+    second: Packman_sprites_453
+  - first:
+      213: 3934691142124486169
+    second: Packman_sprites_454
+  - first:
+      213: 4507988326107347627
+    second: Packman_sprites_455
+  - first:
+      213: 8347606996791323333
+    second: Packman_sprites_456
+  - first:
+      213: -1475700487278516890
+    second: Packman_sprites_457
+  - first:
+      213: 7452685953139167719
+    second: Packman_sprites_458
+  - first:
+      213: 5880560321037890224
+    second: Packman_sprites_459
+  - first:
+      213: -1171076021241484159
+    second: Packman_sprites_460
+  - first:
+      213: 3581219281077872078
+    second: Packman_sprites_461
+  - first:
+      213: 6097379173267202574
+    second: Packman_sprites_462
+  - first:
+      213: 1394022508476286290
+    second: Packman_sprites_463
+  - first:
+      213: -8939509426969121045
+    second: Packman_sprites_464
+  - first:
+      213: 3485307395419584421
+    second: Packman_sprites_465
+  - first:
+      213: -5991651832943136916
+    second: Packman_sprites_466
+  - first:
+      213: 2341713265454807155
+    second: Packman_sprites_467
+  - first:
+      213: -3512069646662209893
+    second: Packman_sprites_468
+  - first:
+      213: -2734408614857057682
+    second: Packman_sprites_469
+  - first:
+      213: 6991208149770950153
+    second: Packman_sprites_470
+  - first:
+      213: 3018948325708490965
+    second: Packman_sprites_471
+  - first:
+      213: -393986395526075734
+    second: Packman_sprites_472
+  - first:
+      213: 3652772334146339228
+    second: Packman_sprites_473
+  - first:
+      213: 3984000904981262912
+    second: Packman_sprites_474
+  - first:
+      213: 2127631333157151540
+    second: Packman_sprites_475
+  - first:
+      213: -5841250543552016422
+    second: Packman_sprites_476
+  - first:
+      213: -6782275302419394486
+    second: Packman_sprites_477
+  - first:
+      213: -6734561755164711636
+    second: Packman_sprites_478
+  - first:
+      213: -8027614438691222869
+    second: Packman_sprites_479
+  - first:
+      213: -8219232633602514862
+    second: Packman_sprites_480
+  - first:
+      213: 6486263754211382904
+    second: Packman_sprites_481
+  - first:
+      213: 8693496219248843350
+    second: Packman_sprites_482
+  - first:
+      213: -1566747813547746013
+    second: Packman_sprites_483
+  - first:
+      213: 8269934062972328097
+    second: Packman_sprites_484
+  - first:
+      213: 6601755326403095838
+    second: Packman_sprites_485
+  - first:
+      213: -4989162269886132634
+    second: Packman_sprites_486
+  - first:
+      213: -8999835307354270965
+    second: Packman_sprites_487
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadow_right_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864781053ab703af0800000000000000
+      internalID: -418698823991790488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_right_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4709aa30a0c9f70e0800000000000000
+      internalID: -2269924120346324876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_right_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2be257bb12e8ad20800000000000000
+      internalID: 3290128136461806383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_right_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46af91345397ba0800000000000000
+      internalID: -6090778458726964062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c0c9a350225890800000000000000
+      internalID: -7470873288151874879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d770d2846d15730800000000000000
+      internalID: 3986202750681054534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_0
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 900
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c555e799d44a00800000000000000
+      internalID: 739955485206496500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f92df6a460adda0800000000000000
+      internalID: -5919411843451674877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 898
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252efc90730f2a930800000000000000
+      internalID: 4153145925567504978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 902
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746204d1b196463d0800000000000000
+      internalID: -3214328668859914681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0256b27de9771700800000000000000
+      internalID: 511011143468601868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ed81564e692870800000000000000
+      internalID: 8658573006891509602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63440e547a51c6c90800000000000000
+      internalID: -7175336298131995594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 900
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe555e6e1e71210800000000000000
+      internalID: 1303758998953389915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman__Move_0
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 900
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8bc692fb3528b0800000000000000
+      internalID: -5177666283494470130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 900
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698fc508b21f9810800000000000000
+      internalID: 1774157359788034409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_right_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301df51b0cf4be730800000000000000
+      internalID: 4029401980641202435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_right_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e42cceb58c1420800000000000000
+      internalID: 2602101739228554202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_right_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d71be47ad56f8a40800000000000000
+      internalID: 5372624869415131096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_right_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd41cdc8490b34e0800000000000000
+      internalID: -2000995401141760546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b7d58d2b00e0710800000000000000
+      internalID: 1661266080680475503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9480a87ca8fcfe0800000000000000
+      internalID: -1166561188846745102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 850
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dac16a6d68102e0800000000000000
+      internalID: -2161298089693106841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e4c436abfe56a20800000000000000
+      internalID: 3055111506049650241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 850
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b51f5db2c97080800000000000000
+      internalID: -9189099446072922079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 852
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9815a957bfe60770800000000000000
+      internalID: 8576806111135733918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99033cf1fe142b220800000000000000
+      internalID: 2500133238429921433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e61bdc6aa7870dd0800000000000000
+      internalID: -2519896300450015520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 850
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f90934e0b625e50800000000000000
+      internalID: 6796612496662765378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 850
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972dfa91ccf44500800000000000000
+      internalID: 379706177065133969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman__Move_1
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 850
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0fd8219bc95ae0800000000000000
+      internalID: -1559991971590762988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 850
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfbcaa01455bf90800000000000000
+      internalID: -6938547220332675857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_down_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d5c9de9841c85e0800000000000000
+      internalID: -1906125959655039730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_down_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6689c9a1616022e40800000000000000
+      internalID: 5630069176172058726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_down_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b5e55916a3c290800000000000000
+      internalID: -7871265095967984539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_down_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab844a6934fb1e0800000000000000
+      internalID: -2179949380343645512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b66784405e87630800000000000000
+      internalID: 3925138881811737450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b86fda9aef95ae0800000000000000
+      internalID: -1559935791185622229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 801
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a2c1815ddfa9f90800000000000000
+      internalID: -6945960383591208308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 800
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878050231eaf4e5c0800000000000000
+      internalID: -4186945908433942408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 802
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5152ed3ff8c401d0800000000000000
+      internalID: -3385360021295312550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4ea3c0527d74e00800000000000000
+      internalID: 1029027593996395734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb49c15e7c635930800000000000000
+      internalID: 4130764573022702521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 800
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c371b62ecf9920800000000000000
+      internalID: 2999342542433274299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 800
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f986dffe79e8e0800000000000000
+      internalID: -1663658950055560993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman__Move_2
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 800
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0805e828c6d07a50800000000000000
+      internalID: 6516944815973009420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 800
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae8bbf3817e5b60800000000000000
+      internalID: 7736746021546945077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_down_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89534b483326e10800000000000000
+      internalID: 2189369013907593429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_down_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96325eab4199be00800000000000000
+      internalID: 1061038941455660698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_down_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174bd4b255b642aa0800000000000000
+      internalID: -6186701974557313935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_down_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d10aecad05f8d420800000000000000
+      internalID: 2655141419419304401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc157e49c3bc30b40800000000000000
+      internalID: 5405387438831391179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b17da4bc90280c0800000000000000
+      internalID: -4575083502716380362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 752
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3963c8d4ce1fcac70800000000000000
+      internalID: 8983821353912907411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 760
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c46488b1600a9310800000000000000
+      internalID: 1412441852841583809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 748
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89fb2b93d25cdd0800000000000000
+      internalID: -2466515495080191746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 752
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755978c2102219a50800000000000000
+      internalID: 6526034723473954135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c33586152731c0800000000000000
+      internalID: -4524106522016102422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a482407a6c72b70800000000000000
+      internalID: 8874280011388439107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d1935174884610800000000000000
+      internalID: 1605678889425818944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 750
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c9cfb100ba4460800000000000000
+      internalID: 7226782073628509613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56850d5db9f9fcd80800000000000000
+      internalID: -8228182502526658459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 750
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d11464b7700040800000000000000
+      internalID: 4611817635084096778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_left_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624903d3d2ea32e70800000000000000
+      internalID: 9089299982287148070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_left_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa78ae46ec503830800000000000000
+      internalID: 4048838209237973671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_left_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872401dadb2c004f0800000000000000
+      internalID: -864477008547003784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_left_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca839b217f95fc60800000000000000
+      internalID: 7851356833801538243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e54e16c939dec0800000000000000
+      internalID: -3541736108875978316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389b2c70eb50e890800000000000000
+      internalID: -7430838365447284680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 724
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0295fb374bfb860800000000000000
+      internalID: 7547949909720768709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 705
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76a06dd13be30c70800000000000000
+      internalID: 8936244685033219707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 696
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59be8ec897896290800000000000000
+      internalID: -7896631381247215267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 700
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272a00a17b2b5330800000000000000
+      internalID: 3700599285831313190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82912cee3ff6f6da0800000000000000
+      internalID: -5949413489259701976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923e8b87d36f9930800000000000000
+      internalID: 4152147158869357212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 700
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7c959e169749f0800000000000000
+      internalID: -484253376815793504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 700
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573745b2acd0dff60800000000000000
+      internalID: 8069621269279306613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 708
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b2afb5aa5a4def0800000000000000
+      internalID: -84260341907051681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 708
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8562afb8bdd3430800000000000000
+      internalID: 3764406257795356855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 703
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a04816778b8e1900800000000000000
+      internalID: 657116009560817831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 704
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea04894dd81d20a0800000000000000
+      internalID: -6904835314988872986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_left_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f9a6a8e0548ff80800000000000000
+      internalID: -8072626403307511950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_left_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c18c2f519a212f50800000000000000
+      internalID: 6854806911689982400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_left_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d02834b67984f80800000000000000
+      internalID: -8122075441012798180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_left_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9e5b79cb4ba8d0800000000000000
+      internalID: -2834088211769287774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5730726ae4b3e0800000000000000
+      internalID: -2038747022781621624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdfe6bbe83b07f10800000000000000
+      internalID: 2265508038178700730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 668
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d7b7a51150dcc0800000000000000
+      internalID: -3688358941366429999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 668
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dd3f0e493dd9cf0800000000000000
+      internalID: -243806168425439939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 653
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d2c969d2600770800000000000000
+      internalID: 8574962376435225853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 659
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353946804e081f3e0800000000000000
+      internalID: -2021693040830934189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 652
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c50c4c0f185fc20800000000000000
+      internalID: 3239638378056014857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 650
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272808e41f0d8a80800000000000000
+      internalID: -8463091542292682973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 649
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf22609cbcd29240800000000000000
+      internalID: 4797139255537315807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 652
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e6e735039b43f0800000000000000
+      internalID: -915476448617765681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19fb3547a44a650800000000000000
+      internalID: 6243196846924075438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a4ae0dddd31070800000000000000
+      internalID: 8076042498308612748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddefb8f896f0900800000000000000
+      internalID: 652856536241987000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 650
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123510f9d4c27530800000000000000
+      internalID: 3851357071670063633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 651
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562e8c5080eb0c850800000000000000
+      internalID: 6395320412532171365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_100
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 651
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72908a7934deac370800000000000000
+      internalID: 8343742134220228903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_up_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d35d964b8cae6f0800000000000000
+      internalID: -654490118633734893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_up_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c8d4b8b11a11d0800000000000000
+      internalID: -3379369085382376547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_up_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0650f8169ef28c560800000000000000
+      internalID: 7334164672583501152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_up_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e187e5ce212c4f0800000000000000
+      internalID: -810064176566755711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd57d80f6456450800000000000000
+      internalID: 6081344870813129476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9c3971bf99e5f0800000000000000
+      internalID: -726874280251581759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 613
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a217755632bcd150800000000000000
+      internalID: 5898785558380352161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 613
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4b0c08f2cf6740800000000000000
+      internalID: 5147547269717510828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 602
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902ac4cc0c56ac10800000000000000
+      internalID: 2064438689106894997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 609
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc15697c36c4dc0800000000000000
+      internalID: -3653435488832730346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 600
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10711831d70ea4cd0800000000000000
+      internalID: -2572997409286056191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 599
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053347cdbe64022e0800000000000000
+      internalID: -2152642643053235376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420a6ec25534e990800000000000000
+      internalID: -7357697261449903544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_114
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902afdd08ceec7c0800000000000000
+      internalID: -4049038976735371117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_115
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a582592e31fde46b0800000000000000
+      internalID: -5310061634124437414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_116
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 600
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfc9b80cec126fd0800000000000000
+      internalID: -2350284255449722939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c4d3cf81621050800000000000000
+      internalID: 5769781342708745700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_118
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d184a167e7cc190800000000000000
+      internalID: -7940832997248852729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_up_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e50e3d02d8c8a1c0800000000000000
+      internalID: -4492119823811213851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedy_up_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8773267b35a8519f0800000000000000
+      internalID: -498340091590985864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bashful_up_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40b7de25a7bd8830800000000000000
+      internalID: 4075115157923541071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokey_up_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15008aa084dba98b0800000000000000
+      internalID: -5144591507203293103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46dd94f1d72c570800000000000000
+      internalID: 8485482221256139974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_124
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad4348e4f4705c0800000000000000
+      internalID: -4249340524756674026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_125
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 568
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d14e555ec44faa0800000000000000
+      internalID: -6128188645072167657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_126
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 568
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b986551ae53f65a0800000000000000
+      internalID: -6525938055539947085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 554
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfcf263f5c6acae0800000000000000
+      internalID: -1528289967352066087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_128
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 574
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd55c49a21bd422c0800000000000000
+      internalID: -4457196857993701924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_129
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 548
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c19a6e715d5a40800000000000000
+      internalID: 5358528735036426056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_130
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 550
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40855c2bac36e5f00800000000000000
+      internalID: 1107432280613541892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_131
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a4cd4da591fbfe0800000000000000
+      internalID: -1171189500184081811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_132
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f039c234d8622e0800000000000000
+      internalID: -2150876452372672742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_133
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 550
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68f0bcb05b17b9d0800000000000000
+      internalID: -2758706213164091285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_134
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 550
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171fe9bae935e150800000000000000
+      internalID: 5901186567043487509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_135
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 550
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ccc11b005b11b00800000000000000
+      internalID: 797617623597370507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_136
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 550
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9f8c1b06e5c84b0800000000000000
+      internalID: -5436866880750421569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_137
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 554
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c401efad6744130800000000000000
+      internalID: 3550093089212222542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_138
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 525
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff75888b0f981a90800000000000000
+      internalID: -7342944320543686666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 525
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f70920d36b0d8330800000000000000
+      internalID: 3714637790972545013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 505
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771fe966457dc06a0800000000000000
+      internalID: -6481569006194069129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_141
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 509
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde0e06854a2be70800000000000000
+      internalID: 9129540094122847679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_142
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 497
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046efda61661b8440800000000000000
+      internalID: 4939066024002577984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_143
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 498
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11219edc2d8222c30800000000000000
+      internalID: 4333070677346685457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_144
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 500
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeb8105bb51abd10800000000000000
+      internalID: 2142048467014958759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_145
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 500
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737b12ab87925870800000000000000
+      internalID: 8670158858617582454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_146
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 450
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c22809e84624f90800000000000000
+      internalID: -6970898709743522778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 456
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f9d67b14b92fe0800000000000000
+      internalID: -1213240594548526299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_148
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 459
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176ab54b718c5940800000000000000
+      internalID: 5286242429076924185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_149
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 452
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0e14bcc1704fe0800000000000000
+      internalID: -1206839576126157072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_150
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 448
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e2028a33b489220800000000000000
+      internalID: 2492825078985666123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_151
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 447
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c38a2c42a31d10800000000000000
+      internalID: 2095196699671905452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_152
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 450
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb3e6fcec4d77dd0800000000000000
+      internalID: -2488286284390450238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_153
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 450
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e84fad3bbf51a780800000000000000
+      internalID: -8673546149540443932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_154
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 400
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183cf9237e3d97a50800000000000000
+      internalID: 6519474925535740801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_dead_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 401
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97d5e0049300c20800000000000000
+      internalID: 3170597084950526405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_156
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 400
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faabce72e71c1340800000000000000
+      internalID: 4835766361446394616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_157
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 401
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b74d2dd355a44e0800000000000000
+      internalID: -1996689760766887057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_158
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 400
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4af2e4710973a0800000000000000
+      internalID: -6667296171809420217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_159
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 400
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db246204b42acb10800000000000000
+      internalID: 2002453339872439248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frightened_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9230d24ded14e30800000000000000
+      internalID: 4486111706707339731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_161
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 350
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e65259d42da920800000000000000
+      internalID: 3003097042333919219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 350
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b161f6310122c6c0800000000000000
+      internalID: -4124698019617480269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_163
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 352
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387802b8c157d120800000000000000
+      internalID: 2438507645666621489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_164
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 349
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b9025ccda29a50800000000000000
+      internalID: 6526469903074571880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_165
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 350
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe415f48d45c5b1e0800000000000000
+      internalID: -2182621507657329425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_166
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 350
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc93c2ff0913d490800000000000000
+      internalID: -7722801379722158896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frightened_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a46f0e7f999640800000000000000
+      internalID: 5087272617864635039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_168
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 300
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effcfc6ae18f506f0800000000000000
+      internalID: -718895754964381698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_169
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 321
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313d29232d173180800000000000000
+      internalID: -9135801282245873348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_170
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 321
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a4c92456d55ce90800000000000000
+      internalID: -7006090955814319468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_171
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 321
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d336c96c4a5d120800000000000000
+      internalID: 2438035946225220937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_172
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 321
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ca3e768e5d20d0800000000000000
+      internalID: -3445994208132151287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_173
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 321
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94bc46cc747d9370800000000000000
+      internalID: 8330942964956968095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_174
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 321
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa969bb124527a0800000000000000
+      internalID: -6402638608395031892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_175
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 321
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7825ef66a27a730800000000000000
+      internalID: 4010220615038568428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_176
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 321
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da6e3894af93a300800000000000000
+      internalID: 262228732595301078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_177
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 321
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa769503902c47b90800000000000000
+      internalID: -7244952555810625617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_178
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 321
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa03028bc6a3db20800000000000000
+      internalID: 3158051156706659062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_179
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 313
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13e5b520ab83ea0800000000000000
+      internalID: -5892755593128693293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_180
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 316
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d237decc27a43030800000000000000
+      internalID: 3473585023500104402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_181
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 313
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bd02cfc52c4b600800000000000000
+      internalID: 483224764658277243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_182
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 309
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514f46c59ff5e79a0800000000000000
+      internalID: -6233439309632572395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_183
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 309
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d322faeea7efdcc20800000000000000
+      internalID: 3228516311838433853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_184
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 291
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6630e80d5f265170800000000000000
+      internalID: 8166767050910348907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_185
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 291
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cffa7e9c95300020800000000000000
+      internalID: 2305901956003725249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_186
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c1f6c129dd52a90800000000000000
+      internalID: -7339216398118347727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_187
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688da2f59597a7660800000000000000
+      internalID: 7384347963783043206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_188
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d8119c9b1c55c40800000000000000
+      internalID: 5500515523589410122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_189
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be15463bdc282b0800000000000000
+      internalID: -5583674417620063473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_190
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 291
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8107e1bec2f0e40800000000000000
+      internalID: 5624763847948638409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_191
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72586dd56d956d800800000000000000
+      internalID: 636795174551717159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_192
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 291
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034094743b56bd830800000000000000
+      internalID: 4096980106693116976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_193
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 291
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3965bf1e913000800000000000000
+      internalID: 13966132883570376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_194
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f35da29c96590fe0800000000000000
+      internalID: -1222350593378659343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_195
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def5e5c046f2419c0800000000000000
+      internalID: -3957486065801076755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_196
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 262
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d899ffb8f1bdcd20800000000000000
+      internalID: 3300489783863253208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_197
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aa7c37979b9fe20800000000000000
+      internalID: 3384940526230284929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_198
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d294925100b54fc0800000000000000
+      internalID: -3511206814738509100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_199
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 212
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4993e51dbcff30800000000000000
+      internalID: 4610768020230982719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfa22594da4f1350800000000000000
+      internalID: 5989588306321649629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_201
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6177101ab8a50350800000000000000
+      internalID: 5982373197118927213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_202
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 171
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297dad44c4cf7af60800000000000000
+      internalID: 8045676663823587218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_203
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48108b6fd1821d880800000000000000
+      internalID: -8588038905260408444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_204
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 100
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db878773106ee3c0800000000000000
+      internalID: -4328416555130450991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_205
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 119
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780c97cbd670a7c0800000000000000
+      internalID: -4062116177569380226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_206
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465ee9b0ab8283810800000000000000
+      internalID: 1745189635130058084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_207
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4023608ed5a9da0800000000000000
+      internalID: -5937329907616840464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261dfc2178e7e76c0800000000000000
+      internalID: -4143735488532983454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Packman_sprites_209
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aff80554fa67130800000000000000
+      internalID: 3564228867349543425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
