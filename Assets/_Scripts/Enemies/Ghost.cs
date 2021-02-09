@@ -67,6 +67,7 @@ public class Ghost : MovingObject
         get => _state;
     }
     public Vector3 goalCell { get; set; }
+    public bool isHome => _leaveController._isHome;
 
     private void Awake()
     {
