@@ -16,7 +16,7 @@ public class GhostMoveAnimator
     
     public void Play()
     {
-        if(_ghost.state == GhostState.frightened) return;
+        if(_ghost.state == GhostState.frightened || _ghost.isHome) return;
         
         if (_ghost.direction.Equals(Vector3.up))
         {
