@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Timers;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -151,6 +152,7 @@ public class GameManager : MonoBehaviour
     {
         print("GameOver!!!");
         UI.EnableGameOver();
+        StartCoroutine(LoadMenu());
     }
 
     private void Win()
@@ -158,6 +160,7 @@ public class GameManager : MonoBehaviour
         print("Win!!!");
         _ghostManager.StopGhosts();
         UI.EnableVictory();
+        StartCoroutine(LoadMenu());
     }
 
     private void ResetGame()
@@ -165,6 +168,12 @@ public class GameManager : MonoBehaviour
         _timer.Reset();
         _ghostManager.ResetGhosts();
         pacman.ResetPacman();
+    }
+
+    private IEnumerator LoadMenu()
+    {
+        yield return new WaitForSeconds(4.5f);
+        SceneManager.LoadScene("Menu");
     }
 
 }

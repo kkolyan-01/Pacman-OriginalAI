@@ -72,7 +72,7 @@ public class MovingObject : MonoBehaviour
         if(!canMove) return false;
         
         float moveStep = GameManager.singlton.moveStep;
-        
+
         Vector2 positionTemp = position;
         positionTemp += _direction * moveStep;
         positionTemp.x = (float) Math.Round(positionTemp.x, 1);

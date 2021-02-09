@@ -10,6 +10,7 @@ public class Pacman : MovingObject
     [SerializeField] private float _startSpeed;
     [SerializeField] private float _delayDeadAnimation;
     [SerializeField] private Vector3 _startPosition;
+    [SerializeField] private AudioSource _eatAudio;
     
     private Vector3 _desiredDirection;
     private Tilemap _pelletsTiles;
@@ -110,6 +111,12 @@ public class Pacman : MovingObject
         {
             _pelletsTiles.SetTile(positionInt, null);
             GameManager.singlton.AddScore(_pelletsTiles.gameObject);
+            // if (_eatAudio.isPlaying)
+            // {
+            //     _eatAudio.Stop();
+            // }
+            _eatAudio.Play();
+                
         }
     }
     
