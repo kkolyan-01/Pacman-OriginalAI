@@ -88,10 +88,8 @@ public class GameManager : MonoBehaviour
     public IEnumerator FrightenedMode()
     {
         _frightenedMode.Run();
-        print("Корутина начата: " + Time.time);
         yield return new WaitForSeconds(_frightenedDuration);
         _frightenedMode.Stop();
-        print("Корутина закончена: " + Time.time);
     }
 
 
@@ -150,14 +148,12 @@ public class GameManager : MonoBehaviour
 
     private void GameOver()
     {
-        print("GameOver!!!");
         UI.EnableGameOver();
         StartCoroutine(LoadMenu());
     }
 
     private void Win()
     {
-        print("Win!!!");
         _ghostManager.StopGhosts();
         UI.EnableVictory();
         StartCoroutine(LoadMenu());

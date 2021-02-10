@@ -10,28 +10,30 @@ public class GhostLeaveHomeController
 
     private Ghost _ghost;
     private Animator _animator;
-    public bool _isHome;
-    private AnimatorController _ghostMove;
-    private AnimatorController _leaveHome;
+    private bool _isHome;
 
-    private bool ghostLeavedHome => _animator.GetCurrentAnimatorStateInfo(0).IsName("Finish");
+    private bool leavedHome => _animator.GetCurrentAnimatorStateInfo(0).IsName("Finish");
 
-
-    public GhostLeaveHomeController(Ghost ghost, AnimatorController ghostMove, AnimatorController leaveHome)
+    private bool canLeaveHove
+    {
+        get
+        {
+            float pillets = GameManager.singlton.eatenPillets;
+            return pillets >= _ghost.peletsForLeave && GameManager.singlton.timerTime > _ghost.minTimeForLeave;
+        }
+    }
+    
+    public GhostLeaveHomeController(Ghost ghost)
     {
         _ghost = ghost;
         _animator = ghost.GetComponent<Animator>();
-        _leaveHome = leaveHome;
-        _ghostMove = ghostMove;
         ResetGhost();
     }
     
     public void ResetGhost()
     {
         _isHome = true;
-        _ghost.position = _ghost.startMovePosition;
-        _animator.runtimeAnimatorController = _leaveHome;
-        _animator.enabled = true;
+        _ghost.isHome = true;
     }
     
     private void LeaveHome()
@@ -43,19 +45,15 @@ public class GhostLeaveHomeController
     {
         if(!_isHome) return;
         
-        
-        float pillets = GameManager.singlton.eatenPillets;
-        if (pillets >= _ghost.peletsForLeave && GameManager.singlton.timerTime > _ghost.minTimeForLeave)
+        if (canLeaveHove)
         {
             LeaveHome();
         }
         
-        if (ghostLeavedHome)
+        if (leavedHome)
         {
-            _animator.runtimeAnimatorController = _ghostMove;
+            _ghost.isHome = false;
             _isHome = false;
-            _ghost.direction = Vector3.left;
-            _ghost.position = _ghost.startMovePosition;
         }
     }
 }

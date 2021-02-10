@@ -6,19 +6,11 @@ using UnityEngine;
 public class MovingObject : MonoBehaviour
 {
     private Vector2 _direction;
-    private float _delayMove;
     private float _lastMoveStep;
-    public float multiplySpeed
-    {
-        set
-        {
-            float baseDelayMove = GameManager.singlton.baseDelayMove;
-            if(baseDelayMove == 0) Debug.LogError("Base Delay Move equals zero!");
-            _delayMove = baseDelayMove / value;
-        }
-    }
-    
-    protected bool canMove => Map.CanMoveToNextCell(position, direction) && Time.time > _lastMoveStep + _delayMove;
+    protected Vector3 _targetCell;
+    protected float multiplySpeed { set; get; }
+
+    protected bool canMove => Map.CanMoveToNextCell(position, direction);
     public bool isInCenterCell => Map.IsInCenterCellPosition(position);
     public Vector3 direction
     {
@@ -72,13 +64,21 @@ public class MovingObject : MonoBehaviour
         if(!canMove) return false;
         
         float moveStep = GameManager.singlton.moveStep;
+        
+        if (isInCenterCell || _targetCell == Vector3.zero)
+        {
+            _targetCell = position + (Vector3)_direction;
+            _targetCell = Vector3Int.FloorToInt(_targetCell);
+            _targetCell = _targetCell + new Vector3(0.5f, 0.5f, 0);
+        }
+        
+        Vector3 newPosition = position;
 
-        Vector2 positionTemp = position;
-        positionTemp += _direction * moveStep;
-        positionTemp.x = (float) Math.Round(positionTemp.x, 1);
-        positionTemp.y = (float) Math.Round(positionTemp.y, 1);
-        position = positionTemp;
-        _lastMoveStep = Time.time;
+        newPosition.x = Mathf.MoveTowards(newPosition.x, _targetCell.x, moveStep * multiplySpeed);
+        newPosition.y = Mathf.MoveTowards(newPosition.y, _targetCell.y, moveStep * multiplySpeed);
+        newPosition.x = (float) Math.Round(newPosition.x, 3);
+        newPosition.y = (float) Math.Round(newPosition.y, 3);
+        position = newPosition;
         
         return true;
     }

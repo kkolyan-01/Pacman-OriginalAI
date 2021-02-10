@@ -35,10 +35,7 @@ public class Pacman : MovingObject
     private void Awake()
     {
         InitializeComponents();
-        direction = Vector3.right;
-        multiplySpeed = _startSpeed;
-        transform.position = _startPosition;
-
+        ResetPacman();
     }
     
     private void InitializeComponents()
@@ -111,10 +108,6 @@ public class Pacman : MovingObject
         {
             _pelletsTiles.SetTile(positionInt, null);
             GameManager.singlton.AddScore(_pelletsTiles.gameObject);
-            // if (_eatAudio.isPlaying)
-            // {
-            //     _eatAudio.Stop();
-            // }
             _eatAudio.Play();
                 
         }
@@ -133,16 +126,17 @@ public class Pacman : MovingObject
     private IEnumerator DeadAnimate()
     {
         yield return new WaitForSeconds(_delayDeadAnimation);
-        _animator.SetTrigger("Dead");
+        _animator.SetBool("isDead", isDead);
     }
 
     public void ResetPacman()
     {
         transform.position = _startPosition;
-        _animator.SetTrigger("Reset");
         multiplySpeed = _startSpeed;
         direction = Vector3.right;
-        _desiredDirection = Vector3.zero;
+        _desiredDirection = Vector3.right;
         isDead = false;
+        _targetCell = Vector3.zero;
+        _animator.SetBool("isDead", isDead);
     }
 }
